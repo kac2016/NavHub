@@ -3,7 +3,7 @@ title: "OpenAlias"
 date: 2018-07-09T11:41:44+12:00
 draft: false
 author: "Alex Vazquez"
-description: "NAV OpenAlias allows you to register a free OpenAlias address and link it to your real NavCoin address using a unique 'email style' user name."
+description: "OpenAlias allows you to register a free OpenAlias address and link it to your real NavCoin address using a unique 'email style' user name."
 resources: []
 filter: ["OpenAlias"]
 bg_image: "/images/icons/icon-purple-lightbulb-new.png"
@@ -28,7 +28,7 @@ weight: 0
 ---
 
 {{< project_header_two
-    title="NAV OpenAlias"
+    title="OpenAlias"
     subhead=""
     gradient=""
     text="OpenAlias has been implemented to make payments to NavCoin wallets easier. It’s another example of the ways that NavCoin is simplifying cryptocurrency."
@@ -61,7 +61,7 @@ weight: 0
 <br />
 
 ## Overview
-NAV OpenAlias is a little like PayPal, which lets you send a payment to an email address. The difference is that OpenAlias uses an easy to remember ‘email style’ address to represent your full NavCoin wallet address. 
+OpenAlias is a little like PayPal, which lets you send a payment to an email address. The difference is that OpenAlias uses an easy to remember ‘email style’ address to represent your full NavCoin wallet address. 
 
 For more information on how it works, visit [openalias.org](https://openalias.org/)
 
@@ -87,7 +87,7 @@ OpenAlias was created by contributors to the [Monero](https://getmonero.org/) cr
 
 1. **It's easy** - You can transform long alphanumeric codes into an easily memorable address.
 
-2. **It's secure** - NAV OpenAlias leverages DNSSEC to prevent MITM attacks on the alias.
+2. **It's secure** - OpenAlias leverages DNSSEC to prevent MITM attacks on the alias.
 
 3. **It saves time** - It’s quicker and easier to remember a meaningful ‘human-readable’ OpenAlias address than a long string of randomised characters.
 <br /><br />
